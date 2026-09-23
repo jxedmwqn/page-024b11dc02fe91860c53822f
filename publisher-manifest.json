@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b443691b69d2048107744a52",
+  "owner": "jxedmwqn",
+  "repo": "page-024b11dc02fe91860c53822f",
+  "title": "无界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "024b11dc02fe91860c53822f",
+      "a": "无界",
+      "b": "2027官方最新地址导航",
+      "entity": "无界",
+      "brand": "无界",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5ac41ede03d62e376007d2c4bbdf7b13f2ae073f87c4538117fa3d824cd31523",
+      "content": {
+        "primary_entity": "无界",
+        "keyword1": "无界",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 与路由器均有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，下载客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，无界提供按月与按年两种付费方式，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB 流量支持 20 台设备。按年付费可节省两个月费用，适合长期使用的用户。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻度使用，旗舰版覆盖多设备与流媒体场景，团队版面向多终端协作。",
+          "AI_FEATURE_TEXT_2": "同一账号支持 3 到 20 台设备在线，按实际使用设备数量选择，避免资源闲置。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付以两个月价格换全年服务，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "付费周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，通常只需三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "无界是一款海外网络加速器，提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求。用户可按月或按年订阅，在 Windows、macOS、Android、iOS 等常用系统上导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速方案",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量与流量选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版与团队版的设备数量、流量与专线权益，确定适合的档位。",
+          "AI_STEP_TEXT_2": "确认当前设备系统与在线数量是否在套餐支持范围内，团队版可满足多终端同时使用。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照客户端文档导入订阅信息，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "无界加速器",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，适合浏览网页和基础流媒体；旗舰版每月 300GB 并支持原生流媒体解锁，适合多设备日常使用；团队版每月 1000GB，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可以按家庭或团队中需要同时连接的数量来选择。",
+          "AI_FAQ_ANSWER_3": "可以，把设备连接到已配置无界的路由器，或在该设备上安装相应客户端并导入订阅即可。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "先确认设备数量和每月大致流量，再看是否需要流媒体解锁或游戏加速。轻度使用选基础版，多设备选旗舰版，团队共享选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "无界三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "路由器上可以使用无界吗？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kurxl.cn",
+    "host": "kurxl.cn"
+  },
+  "file_hashes": {
+    "index.html": "cb3aa33de7d7cf032eb95066ee08eee52491b4e7bdb3c72bf7965ca29d400281",
+    "sitemap.xml": "b0864ef8a074d92c7ad7d820279d076753b4ef5cd55a9024cfa24da64aafa339",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9ef4ad60179acb1e0437d48bff3f3cf8602441f40c31981978920766306fea1f",
+    "robots.txt": "a4426950d4284449cdb2c017365e1e814232cedf54092ba03ec0c46dd7c77d14",
+    "1e7a221a07e6a899019c09f11af59769.txt": "41679630b74563548515f17001220da19df3b866a02f32d3320e3f4c9fbc2d9a"
+  },
+  "revision": "81abb6623b615da677582e32e230c1a7c66b63ad710938767fc6ca417b3f9d89"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurxl.cn/sitemap.xml
